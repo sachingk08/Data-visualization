@@ -1,2 +1,2 @@
-# Data-visualization
-Coursera Data visualization 
+#Python for Data Science, AI & Development
+Coursera Python for Data Science, AI & Development
